@@ -2,13 +2,12 @@
 
 
 ## Оглавление
-* [1. Описание проекта](https://github.com/Vladis-GitHub/sf_data_sciense/tree/main/project_0/README.md#Описание-проекта)
-* [2. Какой кейс мы сейчас решаем?](https://github.com/Vladis-GitHub/sf_data_sciense/tree/main/project_0/README.md#Какой-кейс-решаем)
-* [3. Краткая информация о данных](https://github.com/Vladis-GitHub/sf_data_sciense/tree/main/project_0/README.md#Краткая-информация-о-данных)
-* [4. Этапы работы над проектом](https://github.com/Vladis-GitHub/sf_data_sciense/tree/main/project_0/README.md#Этапы-работы-над-проектом)
-* [5. Результат](https://github.com/Vladis-GitHub/sf_data_sciense/tree/main/project_0/README.md#Результат)
-* [6. Выводы](https://github.com/Vladis-GitHub/sf_data_sciense/tree/main/project_0/README.md##Conclusions)
+* [1. Описание проекта](#Описание-проекта)
+* [2. Какой кейс мы сейчас решаем?](#Какой-кейс-решаем)
+* [3. Краткая информация о данных](#Краткая-информация-о-данных)
 * [4. Этапы работы над проектом](#Этапы-работы-над-проектом)
+* [5. Результат](#Результат)
+* [6. Выводы](#Выводы)
 
 
 ### Описание проекта
@@ -51,7 +50,7 @@
 
 Среднее количество угадываний оказалось равным ... 
 
-## Conclusions
+## Выводы
 
 ...
 

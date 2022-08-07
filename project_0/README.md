@@ -62,7 +62,7 @@
 <details>
 <summary> <b>СКРЫТЫЙ ТЕКСТ</b> </summary><br><b>
 
-<img src="./MISC/WhatAreYouDoingHere.jpg" alt="Простите за фривольность" />
+![Test](MISC/WhatAreYouDoingHere.jpg" alt="Простите за фривольность")
 
     А что Вы ожидали здесь увидеть?
 </b></details>

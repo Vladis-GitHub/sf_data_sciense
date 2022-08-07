@@ -7,7 +7,7 @@
 * [3. Краткая информация о данных](https://github.com/Vladis-GitHub/sf_data_sciense/tree/main/project_0/README.md#Краткая-информация-о-данных)
 * [4. Этапы работы над проектом](https://github.com/Vladis-GitHub/sf_data_sciense/tree/main/project_0/README.md#Этапы-работы-над-проектом)
 * [5. Результат](https://github.com/Vladis-GitHub/sf_data_sciense/tree/main/project_0/README.md#Результат)
-* [6. Выводы](https://github.com/Vladis-GitHub/sf_data_sciense/tree/main/project_0/README.md#Conclusions)
+* [6. Выводы](https://github.com/Vladis-GitHub/sf_data_sciense/tree/main/project_0/README.md##Conclusions)
 
 
 ### Описание проекта

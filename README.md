@@ -7,4 +7,4 @@ From the [SkillFactory Data Science cource](https://skillfactory.ru/data-scienti
 * [Проект 1. ____](____)
 * [Проект 2. ____](____)
 
-## ССылка на резюме
+## Сcылка на резюме

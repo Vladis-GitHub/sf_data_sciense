@@ -62,7 +62,7 @@
 <details>
 <summary> <b>СКРЫТЫЙ ТЕКСТ</b> </summary><br><b>
 
-![](MISC/WhatAreYouDoingHere.jpg "Простите за фривольность")
+![](https://github.com/Vladis-GitHub/sf_data_sciense/blob/main/MISC/WhatAreYouDoingHere.jpg "Простите за фривольность")
 
     А что Вы ожидали здесь увидеть?
 </b></details>

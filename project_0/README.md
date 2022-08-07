@@ -62,5 +62,6 @@
 <details>
 <summary> <b>СКРЫТЫЙ ТЕКСТ</b> </summary><br><b>
 <img src="https://github.com/Vladis-GitHub/sf_data_sciense/blob/main/MISC/WhatAreYouDoingHere.jpg" width="300">
+
     А что Вы ожидали здесь увидеть?
 </b></details>

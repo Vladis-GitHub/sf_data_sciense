@@ -4,7 +4,7 @@
 
 import numpy as np
 
-def random_predict(number: int=1) -> int:
+def predict(number: int=1) -> int:
     """ Рандомно угадываем число
 
     Args:
@@ -34,24 +34,25 @@ def random_predict(number: int=1) -> int:
     return(count)
 
 
-def score_game(random_predict) -> int:
+def score_game(predict) -> int:
     """За какое количество попыток в среднем за 1000 подходов происхрдит угадывание
 
     Args:
-        random_predict (_type_): функция угадывания
+        predict (_type_): функция угадывания
 
     Returns:
         int: среднее количесво попыток
     """
     count_ls = []
     np.random.seed(1) # фиксируем сид для воспроизводимости...
-    random_array = np.random.randint(1, 101, size=(1000))
+    random_array = np.random.randint(1, 101, size=(1000)) # генерация 1000 псевдослучайных чисел, 
+                                                          # от 1 до 100 каждое
     
     for number in random_array:
-        count_ls.append(random_predict(number))
+        count_ls.append(predict(number))
     
     score = int(np.mean(count_ls))
     print(f'Алгоритм угадывает число в среднем за {score} попыток')
     return(score)
 
-score_game(random_predict)
+score_game(predict)

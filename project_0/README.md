@@ -55,16 +55,19 @@
 ...
 
 ***
-![](./MISC/WhatAreYouDoingHere.jpg)
+
 [](./MISC/WhatAreYouDoingHere.jpg)
+
+![](./MISC/WhatAreYouDoingHere.jpg)
 
 :arrow_up:[к оглавлению](#Оглавление)
 
 </b></details>
 <details>
 <summary> <b>СКРЫТЫЙ ТЕКСТ</b> </summary><br><b>
-![](./MISC/WhatAreYouDoingHere.jpg)
 [](./MISC/WhatAreYouDoingHere.jpg)
 
-А что Вы ожидали здесь увидеть?
+![](./MISC/WhatAreYouDoingHere.jpg)
+
+    А что Вы ожидали здесь увидеть?
 </b></details>

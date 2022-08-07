@@ -45,6 +45,6 @@ def score_game(random_predict) -> int:
     return(score)
 
 # RUN
-x = 1
+x = 2
 if __name__ == '__main__':
     score_game(random_predict)

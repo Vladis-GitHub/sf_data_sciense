@@ -24,8 +24,9 @@
 Нужно преобразовать, исследовать и очистить имеющиеся данные
 
 **Условия выполнения проекта**
-- На работу дается не более 7 дней
+- Срок выполнения работ не более 7 дней
 - Результаты работы оформляются в виде проекта на GitHab
+- Из-за особенностей GitHub интерактивные графики/диаграммы, подготавливаемые посредством библиотеки Ploty, сохранябтся в проекте в виде отдельных html-файлов
 
 **Метрика качества**
 
@@ -90,12 +91,4 @@
 <img src="https://github.com/Vladis-GitHub/sf_data_sciense/blob/main/MISC/WhatAreYouDoingHere.jpg" width="300">
 
 А что вы ожидали здесь увидеть? :smirk:
-</b></details>
-
-</b></details>
-<details>
-<summary> <b>СКРЫТЫЙ ТЕКСТ</b> </summary><br><b>
-<img src="https://github.com/Vladis-GitHub/sf_data_sciense/blob/main/project_1/pics/fig1_1.html" width="300">
-
-Картинка-1 из проекта-1 :smirk:
 </b></details>

@@ -13,4 +13,4 @@ From the [SkillFactory Data Science cource](https://skillfactory.ru/data-scienti
 * [Проект 7. ____](____)
 * [****](____)
 
-## Сcылка на резюме [Head Hunter](https://hh.ru/#)
+## Сcылка на резюме [Head Hunter](https://hh.ru/#) / формальная, не рабочая

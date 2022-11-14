@@ -4,7 +4,7 @@ From the [SkillFactory Data Science cource](https://skillfactory.ru/data-scienti
 ## Проекты
 
 * [Проект 0. Угадай число методом дихотомии](https://github.com/Vladis-GitHub/sf_data_sciense/tree/main/project_0.2)
-* [Проект 1. Анализ резюме из HeadHunter](https://github.com/Vladis-GitHub/sf_data_sciense/tree/main/project_1)
+* [Проект 1. Анализ резюме из HeadHunter (очистка данных)](https://github.com/Vladis-GitHub/sf_data_sciense/tree/main/project_1)
 * [Проект 2. ____](____)
 * [Проект 3. ____](____)
 * [Проект 4. ____](____)

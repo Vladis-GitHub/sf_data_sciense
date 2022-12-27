@@ -11,6 +11,6 @@ From the [SkillFactory Data Science cource](https://skillfactory.ru/data-scienti
 * [Проект 5. ____](____)
 * [Проект 6. ____](____)
 * [Проект 7. ____](____)
-* [****](____)
+* [****](https://github.com/Vladis-GitHub/sf_data_sciense/blob/main/MISC/WhatAreYouDoingHere.jpg)
 
 ## Сcылка на резюме [Head Hunter](https://hh.ru/#) / формальная, не рабочая

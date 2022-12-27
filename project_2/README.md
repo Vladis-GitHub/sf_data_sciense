@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Проект 1. <br /> Анализ вакансий из HeadHunter (via SQL)
-=======
 # Проект 2. <br /> Анализ вакансий из HeadHunter (via SQL)
->>>>>>> abd8ede1adf57ee636322bed35c012efada765ff
 
 
 ## Оглавление

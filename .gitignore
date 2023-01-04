@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+data/wine.csv
+DST3.0_03.EDA-1_ex.ipynb
